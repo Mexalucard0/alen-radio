@@ -7,3 +7,7 @@ Join My Discord : https://discord.gg/8SYbt73AMv
 
 Preview : ![](images-preview/unknown.png) 
 
+
+You can join my friend's server(Not for support) :
+https://discord.gg/FZnCxdCMd8
+
