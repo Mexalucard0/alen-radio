@@ -2,7 +2,10 @@
 
 This is a Radio System with a simple ui for QBCore users who are using
 **PMA-VOICE** : https://github.com/AvarianKnight/pma-voice
-This can be opened by the command radio and by pressing "O" Button (default) 
+
+You can open the radio using the /radio command and with "O" Button (Default) But as this is using Register KeyMapping Players can change the bind by themselves in their settings. 
+
+Credits : Alen#0007
 
 Join My Discord : https://discord.gg/8SYbt73AMv
 
